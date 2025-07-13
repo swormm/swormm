@@ -70,10 +70,10 @@
 ## 🏁 Quote 
 
 > *"Je suis plus fort que toi dans tout les domaines"*  
-> *– s.worm, Cyber Racer*
+> *– Freeze Corleone*
 
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/ZJgYz9x.jpeg" width="550" alt="Fast car banner">
+  <img src="https://nym.vercel.app/assets/pfp1-j54_sJiB.gif" width="550" alt="Fast car banner">
 </p>
