@@ -1,16 +1,79 @@
-<h1 align="center">Hi 👋, I'm sworm</h1>
-<h3 align="center">👾 I have been passionate about cybersecurity for 3 years.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swormm&label=Profile%20views&color=0e75b6&style=flat" alt="swormm" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/KJgZYPWSFF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KJgZYPWSFF" height="30" width="40" /></a>
+<h1 align="center">🏁💻 S.WORM - BABA BOY 🐍🖤</h1>
+<p align="center">
+  🔥 hacker ethique depuis 5 ans • proxy chargé, ready to roll.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20views-280-ff007f?style=flat-square&logo=fastapi" alt="Profile Views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swormm&show_icons=true&locale=en&layout=compact" alt="swormm" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swormm&show_icons=true&locale=en" alt="swormm" /></p>
+## 🏎️ Connect to the Pit Stop
+
+<p>
+  <a href="https://discord.com/users/924269282093834271"><img src="https://img.shields.io/badge/Discord-s.worm-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧰 My Setup: Like a Tuned Engine
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+</p>
+
+---
+
+## 💽 Language Usage: No BS, Just Power
+
+```
+🐍 Python █████████████████████████████ 99.67%
+🔧 Batchfile ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.33%
+```
+
+---
+
+## 📟 Stats Terminal: Logging
+
+- ⭐ Stars récupérés: `8`
+- 🧠 Commits (2025): `61`
+- ❌ PRs: `0`
+- ❌ Issues: `0`
+- 💤 Contributions (last year): `0`
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swormm&show_icons=true&theme=radical&hide=prs,issues&count_private=true" />
+</p>
+
+---
+
+## 🚨 Logs
+
+```
+[💾] Booting system... OK
+[🛠️] Tools loaded: Python, JS, Linux, Bash...
+[🕶️] Identity: Anonyme
+[🚓] Police status: hunt
+```
+
+
+---
+
+## 🏁 Quote 
+
+> *"Je suis plus fort que toi dans tout les domaines"*  
+> *– s.worm, Cyber Racer*
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/ZJgYz9x.jpeg" width="550" alt="Fast car banner">
+</p>
