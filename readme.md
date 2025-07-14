@@ -40,15 +40,7 @@
 ---
 
 ## 📟 Stats Terminal: Logging
-
-- ⭐ Stars récupérés: `8`
-- 🧠 Commits (2025): `61`
-- ❌ PRs: `0`
-- ❌ Issues: `0`
-- 💤 Contributions (last year): `0`
-
 ---
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swormm&show_icons=true&theme=radical&hide=prs,issues&count_private=true" />
 </p>
