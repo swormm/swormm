@@ -1,6 +1,6 @@
 <h1 align="center">🏁💻 S.WORM - BABA BOY 🐍🖤</h1>
 <p align="center">
-  🔥 hacker ethique depuis 5 ans • proxy chargé, ready to roll.
+  •🔥 hacker ethique depuis 5 ans •
 </p>
 
 <p align="center">
@@ -51,9 +51,8 @@
 
 ```
 [💾] Booting system... OK
-[🛠️] Tools loaded: Python, JS, Linux, Bash...
+[🛠️] Tools loaded: Python, JS, Bash...
 [🕶️] Identity: Anonyme
-[🚓] Police status: hunt
 ```
 
 
