@@ -1,4 +1,4 @@
-<h1 align="center">🏁💻 S.WORM - BABA BOY 🐍🖤</h1>
+<h1 align="center">🏁💻 S.WORM</h1>
 <p align="center">
   •🔥 hacker ethique depuis 5 ans •
 </p>
@@ -51,8 +51,8 @@
 
 ```
 [💾] Booting system... OK
-[🛠️] Tools loaded: Python, JS, Bash...
-[🕶️] Identity: Anonyme
+[🛠️] Tools loaded: SSH, OPENVPN, WSL...
+[🕶️] Identity: sworm
 ```
 
 
@@ -60,7 +60,7 @@
 
 ## 🏁 Quote 
 
-> *"Je suis plus fort que toi dans tout les domaines"*  
+> *"je Performe dans tous les domaines"*  
 > *– Freeze Corleone*
 
 ---
