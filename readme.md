@@ -1,6 +1,6 @@
 <h1 align="center">🏁💻 S.WORM</h1>
 <p align="center">
-  •🔥 hacker ethique depuis 5 ans •
+  •🔥  dev depuis 5 ans •
 </p>
 
 <p align="center">
