@@ -30,7 +30,7 @@
 
 ---
 
-## 💽 Language Usage: No BS, Just Power
+## 💽 Language Usage: 
 
 ```
 🐍 Python █████████████████████████████ 99.67%
@@ -44,24 +44,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swormm&show_icons=true&theme=radical&hide=prs,issues&count_private=true" />
 </p>
-
----
-
-## 🚨 Logs
-
-```
-[💾] Booting system... OK
-[🛠️] Tools loaded: SSH, OPENVPN, WSL...
-[🕶️] Identity: sworm
-```
-
-
----
-
-## 🏁 Quote 
-
-> *"je Performe dans tous les domaines"*  
-> *– Freeze Corleone*
 
 ---
 
