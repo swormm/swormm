@@ -1,6 +1,5 @@
 <h1 align="center">🏁💻 S.WORM</h1>
 <p align="center">
-  •🔥  dev depuis 5 ans •
 </p>
 
 <p align="center">
