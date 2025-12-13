@@ -8,7 +8,7 @@
 
 ---
 
-## 🏎️ Connect to the Pit Stop
+## 🏎️ Social
 
 <p>
   <a href="https://discord.com/users/924269282093834271"><img src="https://img.shields.io/badge/Discord-s.worm-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧰 My Setup: Like a Tuned Engine
+## 🧰 My Setup
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
