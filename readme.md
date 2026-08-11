@@ -16,8 +16,6 @@
 
 ---
 
-## 🧰 My Setup
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
@@ -25,23 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-</p>
-
----
-
-## 💽 Language Usage: 
-
-```
-🐍 Python █████████████████████████████ 99.67%
-🔧 Batchfile ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.33%
-```
-
----
-
-## 📟 Stats Terminal: Logging
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swormm&show_icons=true&theme=radical&hide=prs,issues&count_private=true" />
 </p>
 
 ---
